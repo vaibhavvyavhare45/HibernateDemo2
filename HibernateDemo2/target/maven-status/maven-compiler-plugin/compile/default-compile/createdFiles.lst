@@ -1,0 +1,4 @@
+com\hibernate\ExampleMain.class
+com\hibernate\Employee.class
+com\hibernate\PartTimeEmployee.class
+com\hibernate\FullTimeEmployee.class
